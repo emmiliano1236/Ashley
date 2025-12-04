@@ -1,0 +1,72 @@
+body {
+    font-family: 'Playfair Display', serif;
+    background-color: rgb(197, 232, 231);
+    font-family: sans-serif;
+    padding: 15px;
+    color: #333333;
+}
+
+h1, p, h2 {
+  margin: 1em auto;
+  text-align: center;
+}
+
+.ella {
+  width: 80%;
+  background-color: #FDDAE5;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+  max-width: 500px;
+  border-radius: 10px;
+  box-shadow: 0 15px 8px rgba(0, 0, 0, 0.15);
+
+}
+
+.texto {
+  width: 80%;
+  background-color: #FDDAE5;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+  max-width: 500px;
+  border-radius: 10px;
+  box-shadow: 0 15px 8px rgba(0, 0, 0, 0.15);
+
+}
+
+
+.puntos-de-ella {
+  line-height: 1.6;
+  margin-bottom: 10px;
+}
+
+.perros {
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+}
+.texto {
+  line-height: 1.6;
+  margin-bottom: 10px;
+}
+
+img {
+  
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: auto;
+}
+
+.flores2 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: auto;
+}
+
+a {
+    color: #333333;
+}
